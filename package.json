@@ -40,6 +40,20 @@
     "url": "https://github.com/bubkoo/pad-start/issues"
   },
   "homepage": "https://github.com/bubkoo/pad-start#readme",
+  "testling": {
+    "harness": "mocha-bdd",
+    "files": "test/index.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/5..latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",

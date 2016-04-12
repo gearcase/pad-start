@@ -7,6 +7,7 @@
 [![build:?](https://img.shields.io/travis/bubkoo/pad-start/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/pad-start)
 [![coverage:?](https://img.shields.io/coveralls/bubkoo/pad-start/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/pad-start)
 
+[![browser support](https://ci.testling.com/bubkoo/pad-start.png)](https://ci.testling.com/bubkoo/pad-start)
 
 ## Install
 
