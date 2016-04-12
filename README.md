@@ -21,6 +21,8 @@ $ npm install --save pad-start
 ```js
 
 // a polyfill that doesn't overwrite the native method
+// var padStart = String.prototype.padStart || require('pad-start');
+
 var padStart = require('pad-start');
 
 padStart('x', 4, 'ab');        // => 'abax'
