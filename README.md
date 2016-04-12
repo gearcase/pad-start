@@ -1,4 +1,5 @@
-# pad-start
+# pad-start <sup>[![Version Badge](http://versionbadg.es/bubkoo/pad-start.svg)](https://npmjs.org/package/pad-start)</sup>
+
 
 > ES spec-compliant String.prototype.padStart shim.
 
