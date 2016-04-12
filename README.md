@@ -9,11 +9,13 @@
 [![coverage:?](https://img.shields.io/coveralls/bubkoo/pad-start/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/pad-start)
 
 
+
 ## Install
 
 ```
 $ npm install --save pad-start 
 ```
+
 
 ## Usage
 
@@ -32,6 +34,7 @@ padStart('abcd', 6, '123456'); // => '12abcd'
 
 ```
 
+
 ## Related
 
 - [pad-end](https://github.com/bubkoo/pad-end) - ES spec-compliant String.prototype.padEnd shim.
@@ -42,8 +45,7 @@ padStart('abcd', 6, '123456'); // => '12abcd'
 
 ## Contributing
  
-Pull requests and stars are always welcome. 
+Pull requests and stars are highly welcome. 
 
 For bugs and feature requests, please [create an issue](https://github.com/bubkoo/pad-start/issues).
 
-But before doing anything, please read the [CONTRIBUTING](https://github.com/tunnckocore/starts-with/blob/master/CONTRIBUTING.md) guidelines.
