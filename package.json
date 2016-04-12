@@ -1,7 +1,7 @@
 {
   "name": "pad-start",
   "version": "1.0.0",
-  "description": "ES spec-compliant shim for String.prototype.padStart",
+  "description": "ES spec-compliant String.prototype.padStart shim.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",

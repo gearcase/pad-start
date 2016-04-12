@@ -1,6 +1,6 @@
 # pad-start
 
-> ES spec-compliant shim for String.prototype.padStart
+> ES spec-compliant String.prototype.padStart shim.
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/pad-start/blob/master/LICENSE)
 
@@ -27,13 +27,13 @@ var padStart = require('pad-start');
 padStart('x', 4, 'ab');        // => 'abax'
 padStart('x', 4);              // => '   x'
 padStart('abcd', 2, '#');      // => 'abcd'
-padStart('abcd', 6, '123456'); // => '12abce'
+padStart('abcd', 6, '123456'); // => '12abcd'
 
 ```
 
 ## Related
 
-- [pad-end](https://github.com/bubkoo/pad-end) - ES spec-compliant shim for String.prototype.padEnd.
+- [pad-end](https://github.com/bubkoo/pad-end) - ES spec-compliant String.prototype.padEnd shim.
 - [start-with](https://github.com/bubkoo/start-with) - Determines whether a string begins with the characters of another string.
 - [end-with](https://github.com/bubkoo/end-with) - Determines whether a string ends with the characters of another string.
 
