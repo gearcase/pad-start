@@ -1,6 +1,6 @@
 {
   "name": "pad-start",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES spec-compliant String.prototype.padStart shim.",
   "main": "index.js",
   "scripts": {
@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/pad-start.git"
+    "url": "git+https://github.com/gearcase/pad-start.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/pad-start/issues"
+    "url": "https://github.com/gearcase/pad-start/issues"
   },
-  "homepage": "https://github.com/bubkoo/pad-start#readme",
+  "homepage": "https://github.com/gearcase/pad-start#readme",
   "testling": {
     "harness": "mocha-bdd",
     "files": "test/index.js",
